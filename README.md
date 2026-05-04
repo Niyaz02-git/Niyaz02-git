@@ -1,9 +1,8 @@
 # Hi there, I'm Mohammed Niyaz Ali! 👋
 
-### 🎯 Aspiring Data Analyst | Python • SQL • Power BI
+### 🎯Data Analyst | Python • SQL • Power BI
 
-I'm a Computer Science graduate from Osmania University, Hyderabad, passionate about turning raw data into actionable insights. I love building end-to-end data projects — from web scraping and data cleaning to interactive dashboards.
-
+I'm a Computer Science graduate from Osmania University, Hyderabad, passionate about turning raw data into actionable insights.
 ---
 
 ## 🛠️ Tech Stack
